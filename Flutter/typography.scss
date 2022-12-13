@@ -1,0 +1,361 @@
+
+.typographyDisplayLarge 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 57px;
+  line-height: 64px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyDisplayMedium 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 52px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyDisplaySmall 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyHeadlineLarge 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyHeadlineMedium 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 36px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyHeadlineSmall 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyTitleLarge 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 28px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyTitleMedium 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyTitleSmall 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyBodyLarge 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyBodyMedium 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyBodySmall 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyLabelLarge 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyLabelMedium 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyLabelSmall 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 11px;
+  line-height: 16px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyDisplayLarge 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 57px;
+  line-height: 64px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyDisplayMedium 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 52px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyDisplaySmall 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyHeadlineLarge 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyHeadlineMedium 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 36px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyHeadlineSmall 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyTitleLarge 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 28px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyTitleMedium 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyTitleSmall 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyBodyLarge 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyBodyMedium 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyBodySmall 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyLabelLarge 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyLabelMedium 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyLabelSmall 
+{ 
+  
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 11px;
+  line-height: 16px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
